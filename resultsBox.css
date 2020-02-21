@@ -1,0 +1,24 @@
+.navBar{
+	border: 2px solid #ccc;
+	border-radius: 5px;
+	background-color: aliceblue;
+	width: 50%;
+	margin: auto;
+
+}
+
+li{
+padding: 4px;
+color: orange;
+}
+li input{
+	display: none;
+}
+
+li.edit span{
+	display: none;
+}
+
+li.edit input{
+	display: initial;
+}
